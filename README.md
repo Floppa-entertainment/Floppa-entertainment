@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Floppa-entertainment
-- 👀 I’m interested in learn Html, CCSS and Javascript
+- 👀 I’m interested in learn Html, CSS and Javascript
 - 🌱 I’m currently learning to program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
